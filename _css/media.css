@@ -3,7 +3,7 @@ div#tv-radio{
     width: 900px;
     height: 580px;
     margin: auto;
-    background: url(/Course/folders/_imagens/radio-tv.png);
+    background: url(/_imagens/radio-tv.png);
     background-repeat: no-repeat;
 } 
 audio#musica{

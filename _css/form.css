@@ -32,22 +32,22 @@ fieldset#sexo {
 
 }
 #usuario {
-    background-image: url(/Course/folders/_imagens/icone-contato.png);
+    background-image: url(/_imagens/icone-contato.png);
     background-repeat: no-repeat;
     background-position: 95% 95%;
 }
 #endereco {
-    background-image: url(/Course/folders/_imagens/icone-endereco.png);
+    background-image: url(/_imagens/icone-endereco.png);
     background-repeat: no-repeat;
     background-position: 95% 95%;
 }
 #mensagem {
-    background-image: url(/Course/folders/_imagens/icone-mensagem.png);
+    background-image: url(/_imagens/icone-mensagem.png);
     background-repeat: no-repeat;
     background-position: 95% 95%;
 }
 #pedido {
-    background-image: url(/Course/folders/_imagens/icone-pagamento.png);
+    background-image: url(/_imagens/icone-pagamento.png);
     background-repeat: no-repeat;
     background-position: 95% 95%;
 }
